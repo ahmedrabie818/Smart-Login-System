@@ -1,0 +1,19 @@
+body {
+  background-color: #24353f;
+}
+nav {
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.card {
+  background-color: #24353f;
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+button:hover {
+  color: #fff !important;
+}
+input::placeholder {
+  color: #ced4da !important;
+}
+input {
+  color: #fff !important;
+}
